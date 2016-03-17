@@ -1,0 +1,108 @@
+{
+  "name": "Bertrand Dubaut",
+  "info": {
+    "label": "Software Engineer - Ruby developer",
+    "class": "Software Engineer",
+    "brief": "I'm a French software engineer that lives in Brisbane, Australia. I am 27, speak fluent English and I have a Master's degree in Computer Science from one of the top Computer Engineering schools of France. I am a ruby developer (Ruby on Rails, Grape API...) with strong software and cloud architecture skills, I am anElixir enthusiast (functional programming), and I am also trying to up my skills with front-end technologies like React or Relay. My technology monitoring skills is also much appreciated as I know very well what is going on in our industry. On a personal note, I have played baseball all my life, including one year in California in college (where I injured my shoulder then came back to France to finish my Computer Science studies). I now play competitive Baseball and coach a youth team here in Brisbane for my spare time."
+  },
+  "contact": {
+    "email": "bdubaut@gmail.com",
+    "phone": "+61 481 755 342"
+  },
+  "employment": {
+    "history": [
+      {
+        "employer": "Everydayhero",
+        "url": "http://www.everydayhero.com",
+        "position": "Software Engineer - Ruby developper",
+        "summary": "blablabla",
+        "start": "2015-08",
+        "end": "2016-03",
+        "keywords": ["Ruby", "Ruby on Rails", "Elixir", "PostgreSQL", "React", "AWS"]
+      },
+      {
+        "employer": "Oomph",
+        "url": "http://www.oomphhq.com",
+        "position": "Software Engineer",
+        "summary": "blablabla",
+        "start": "2014-09",
+        "end": "2015-07",
+        "keywords": ["Ruby", "Ruby on Rails", "AWS", "PostgreSQL"]
+      },
+      {
+        "employer": "Visibleo",
+        "url": "http://www.visibleo.fr",
+        "position": "Software Engineer",
+        "summary": "blablabla",
+        "start": "2014-01",
+        "end": "2014-07",
+        "keywords": ["Ruby", "Ruby on Rails", "AWS", "Grape API", "JQuery", "MongoDB"]
+      },
+      {
+        "employer": "Reputation Squad",
+        "url": "http://www.reputationsquad.com/en",
+        "position": "Technical Project Manager/Developer",
+        "summary": "blablabla",
+        "start": "2013-02",
+        "end": "2013-09",
+        "keywords": ["Ruby on Rails", "PHP", "Perl", "Facebook API", "Twitter API", "Project Management"]
+      },
+      {
+        "employer": "Sogeti",
+        "url": "http://www.sogeti.com",
+        "position": "Technical consultant / Developer",
+        "summary": "blablabla",
+        "start": "2011-02",
+        "end": "2013-02",
+        "keywords": ["Java/J2EE", "Oracle SQL", "HP Quality Center", "QuickTest Pro", "Visual Basic"],
+        "highlights": ["Managed a developer team based in India from France"]
+      }
+    ]
+  },
+  "projects": [
+    {
+      "title": "Adomatic",
+      "category": "private",
+      "url": "http://oomphhq.com/advertising-solutions",
+      "description": "Developing a solution to convert your existing print Ad inventory into HTML5 content"
+    },
+    {
+      "title": "Global Sourcing Renault",
+      "category": "Consulting",
+      "description": "In charge of a vehicle saling application for RENAULT's employees (as a consultant with Sogeti).",
+      "summary": "Evolution design, technical specifications, and management of an Off-Shore development team in India. Also testing, deployement actions, bug management."
+
+    },
+    {
+      "title": "Air France Check-In",
+      "category": "Consulting",
+      "description": "Developer in charge of a test automaton for the new passenger check-in system for Air France and SkyTeam (KLM, Alitalia….)",
+      "summary": "Development and maintenance of a test automaton. Discussions with the KLM dev team to help them develop their own automaton. The automaton was taking over every interface (Desk, Internet portal, self check-in)."
+    },
+    {
+      "title": "Paris Universite Club Baseball web app",
+      "category": "Side Project",
+      "url": "http://www.pucbaseball.com",
+      "description": "Creating a new web application for the Paris Baseball Club",
+      "summary": "Design, implementation, deployment of a web app for the Paris Baseball Softball and Cricket club. Providing blogs, emails and player management tools for the amateur club",
+      "keywords": ["Ruby on Rails", "Devise", "Heroku", "Mandrill", "Refills/Bitters", "RSS", "Ghost"]
+    }
+  ],
+  "skills": [ /* Skills and technologies */ ],
+  "education": { /* Schools, training, certifications */ },
+  "affiliation": { /* Clubs, groups, and associations */ },
+  "service": { /* Volunteer, military, civilian service */ },
+  "disposition": { /* Disposition towards work, relocation, schedule */ },
+  "writing": [ /* Writing, blogging, and publications */ ],
+  "reading": [ /* Books and publication a la StackOverflow Careers */ ],
+  "speaking": [ /* Writing, blogging, and publications */ ],
+  "governance": [ /* Board memberships, committees, standards groups */ ],
+  "recognition": [ /* Awards and commendations */ ],
+  "samples": [ /* Work samples and portfolio pieces */ ],
+  "social": [ /* Social networking & engagement */ ],
+  "references": [ /* Candidate references */ ],
+  "testimonials": [ /* Public candidate testimonials */ ],
+  "extracurricular": [ /* Interests & hobbies */ ],
+  "interests": [ /* Interests & hobbies */ ],
+  "languages": [ /* languages spoken */ ]
+}
