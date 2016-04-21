@@ -1,0 +1,214 @@
+{
+  "basics": {
+    "name": "Bertrand Dubaut",
+    "label": "Software Engineer - Ruby developer",
+    "class": "Software Engineer",
+    "summary": "I'm a French software engineer living in Brisbane, Australia. I am 28, speak fluent English, and have a Master's degree in Computer Science from one of the top French Computer Engineering schools.<br /><br /> I am a ruby developer (Ruby on Rails, Grape API...) with strong software and cloud architecture skills. I am an Elixir enthusiast (functional programming), and keen to further my skills with front-end technologies like React or Relay. <br /><br /> My technology monitoring skills, up to date with the current state of our industry, will be appreciated. On a personal note, I have played baseball my whole life, including one year of college Baseball in California. I now play competitive Baseball and coach a youth team here in Brisbane in my spare time.",
+    "phone": "+61 481 755 342",
+    "email": "bdubaut@gmail.com",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "bdubaut",
+        "url": "https://au.linkedin.com/in/bdubaut"
+      },
+      {
+        "network": "Github",
+        "username": "bdubaut",
+        "url": "http://github.com/bdubaut"
+      },
+      {
+        "network": "Twitter",
+        "username": "bdubaut",
+        "url": "http://twitter.com/bdubaut"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Everydayhero",
+      "website": "http://www.everydayhero.com",
+      "position": "Software Engineer - Ruby developper",
+      "startDate": "2015-08",
+      "endDate": "2016-03",
+      "summary": "Everydayhero is a crowdfunding platform aimed at charity fundraising."
+    },
+    {
+      "company": "Oomph",
+      "website": "http://www.oomphhq.com",
+      "position": "Software Engineer",
+      "startDate": "2014-09",
+      "endDate": "2015-07",
+      "summary": "Oomph is a platform for publishers and advertisers allowing them to create digital magazines or ads for mobile devices and tablets."
+    },
+    {
+      "company": "Visibleo",
+      "website": "http://www.visibleo.fr",
+      "position": "Software Engineer",
+      "startDate": "2014-01",
+      "endDate": "2014-07",
+      "summary": "Visibleo is a web-marketing start-up based in the Paris Suburbs. They perform Facebook Ads and Google AdWords campaigns, while also creating websites for their clients. In charge of creating and developing web applications for the IT department of the company."
+    },
+    {
+      "company": "Reputation Squad",
+      "website": "http://www.reputationsquad.com/en",
+      "position": "Technical Project Manager/Developer",
+      "startDate": "2013-02",
+      "endDate": "2013-09",
+      "summary": "Reputation Squad is an E-Reputation agency in Paris: the company manages and monitors its clients’ reputation on the Internet. In charge of creating and developing web and social media monitoring tools for the agency"
+    },
+    {
+      "company": "Sogeti",
+      "website": "http://www.sogeti.com",
+      "position": "Technical consultant / Developer",
+      "startDate": "2011-02",
+      "endDate": "2013-02",
+      "summary": "Consultant in projects for several large-scale French companies like Air France or Renault.",
+      "highlights": [
+        "Managed a developer team based in India from France"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ecole des Technologies Numeriques Appliquees",
+      "courses": [
+        "advanced C programming",
+        "Java",
+        "PHP",
+        "Ruby",
+        ".NET",
+        "Object-Oriented programming"
+      ],
+      "startDate": "2011-09",
+      "endDate": "2013-06"
+    },
+    {
+      "institution": "Ecole des Technologies Numeriques Appliquees",
+      "courses": [
+        "Shell",
+        "C programming",
+        "PHP",
+        "MySQL",
+        "UNIX System Administration",
+        "Networks"
+      ],
+      "startDate": "2010-09",
+      "endDate": "2011-06"
+    },
+    {
+      "institution": "Universite Paris VI",
+      "courses": [
+        "C Programming",
+        "Linear Algebra",
+        "Algorithms",
+        "OCaml"
+      ],
+      "startDate": "2009-09",
+      "endDate": "2010-06"
+    },
+    {
+      "institution": "Merced Community College",
+      "courses": [
+        "Baseball",
+        "English",
+        "Political Science",
+        "Chemistry",
+        "Calculus"
+      ],
+      "startDate": "2008-09",
+      "endDate": "2009-06"
+    },
+    {
+      "institution": "Universite Paris VI",
+      "courses": [
+        "C Programming",
+        "Linear Algebra",
+        "Chemistry",
+        "Physics",
+        "Calculus"
+      ],
+      "startDate": "2006-09",
+      "endDate": "2008-06"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": [
+        "Ruby",
+        "Ruby on Rails",
+        "Grape API framework",
+        "Elixir",
+        "Java",
+        "Javascript",
+        "CoffeeScript",
+        "jQuery",
+        "HTML 5",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "ORMs",
+        "ActiveRecord",
+        "Mongoid"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "keywords": [
+        "AWS",
+        "S3",
+        "Redshift",
+        "EC2"
+      ]
+    },
+    {
+      "name": "Project management",
+      "keywords": [
+        "Agile project management",
+        "Github flow"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Baseball",
+      "summary": "The sport I have played all my life"
+    },
+    {
+      "name": "Mixology",
+      "summary": "Making cocktails is an advanced hobby of mine. It's just like cooking or baking, only I like to create sophisticated beverages."
+    },
+    {
+      "name": "History",
+      "summary": "Learning about the History of all cultures is something that interests me a whole lot."
+    },
+    {
+      "name": "Music",
+      "summary": "I played the piano at the Conservatorium when I was young. Now I am learning Ukulele because it's easier to carry around."
+    },
+    {
+      "name": "Reading"
+    },
+    {
+      "name": "Traveling"
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "level": "Mothertongue"
+    },
+    {
+      "language": "English",
+      "level": "Bilingual"
+    }
+  ]
+}

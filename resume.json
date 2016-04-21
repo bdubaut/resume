@@ -1,38 +1,33 @@
 {
-
-  "name": "Bertrand Dubaut",
-  "info": {
-    "label": "Software Engineer - Ruby developer",
-    "class": "Software Engineer",
-    "brief": "I'm a French software engineer that lives in Brisbane, Australia. I am 28, speak fluent English and I have a Master's degree in Computer Science from one of the top Computer Engineering schools of France. I am a ruby developer (Ruby on Rails, Grape API...) with strong software and cloud architecture skills, I am anElixir enthusiast (functional programming), and I am also trying to up my skills with front-end technologies like React or Relay. My technology monitoring skills is also much appreciated as I know very well what is going on in our industry. On a personal note, I have played baseball all my life, including one year in California in college (where I injured my shoulder then came back to France to finish my Computer Science studies). I now play competitive Baseball and coach a youth team here in Brisbane for my spare time."
-  },
-  "contact": {
+  "basics": {
+    "name": "Bertrand Dubaut",
+    "label": "Software Engineer/Ruby Developer/Elixir Enthusiast",
+    "picture": "",
     "email": "bdubaut@gmail.com",
-    "phone": "+61 481 755 342"
-  },
-  "social": [
-    {
-      "label": "Linked'In",
-      "network": "Linked'In",
-      "user": "bdubaut",
-      "url": "https://au.linkedin.com/in/bdubaut"
+    "phone": "0481755342",
+    "summary": "I'm a French software engineer that lives in Brisbane, Australia. I am 28, speak fluent English and I have a Master's degree in Computer Science from one of the top Computer Engineering schools of France. I am a ruby developer (Ruby on Rails, Grape API...) with strong software and cloud architecture skills, I am anElixir enthusiast (functional programming), and I am also trying to up my skills with front-end technologies like React or Relay. My technology monitoring skills is also much appreciated as I know very well what is going on in our industry. On a personal note, I have played baseball all my life, including one year in California in college (where I injured my shoulder then came back to France to finish my Computer Science studies). I now play competitive Baseball and coach a youth team here in Brisbane for my spare time.",
+    "location": {
+      "address": "1105/77-79 Grey St",
+      "postalCode": "4101",
+      "city": "South Brisbane",
+      "countryCode": "AU",
+      "region": "Queensland"
     },
-    {
-      "label": "Github",
-      "network": "Github",
-      "user": "bdubaut",
-      "url": "http://github.com/bdubaut"
-    },
-    {
-      "label": "Twitter",
-      "network": "Twitter",
-      "user": "bdubaut",
-      "url": "http://twitter.com/bdubaut"
-    }
-  ],
-  "employment": {
-    "history": [
+    "profiles": [
       {
+        "network": "Twitter",
+        "username": "bdubaut",
+        "url": "https://twitter.com/bdubaut"
+      },
+      {
+        "network": "Linked'In",
+        "username": "bdubaut",
+        "url": "https://au.linkedin.com/in/bdubaut"
+      }
+    ]
+  },
+  "work": [
+    {
         "employer": "Everydayhero",
         "url": "http://www.everydayhero.com",
         "position": "Software Engineer - Ruby developper",
@@ -78,48 +73,27 @@
         "keywords": ["Java/J2EE", "Oracle SQL", "HP Quality Center", "QuickTest Pro", "Visual Basic"],
         "highlights": ["Managed a developer team based in India from France"]
       }
-    ]
-  },
-  "projects": [
+  ],
+  "volunteer": [
     {
-      "title": "Adomatic",
-      "category": "private",
-      "url": "http://oomphhq.com/advertising-solutions",
-      "summary": "Solution to convert an existing print Ad inventory into engaging rich media Ads for tablet and mobile.",
-      "keywords": ["Ruby on Rails", "PostgreSQL", "AWS"]
-    },
-    {
-      "title": "Global Sourcing Renault",
-      "category": "Consulting",
-      "summary": "In charge of a vehicle saling application for RENAULT's employees (as a consultant with Sogeti). Technical  specifications, and management of an Off-Shore development team in India. Also testing, deployement actions, bug management.",
-      "keywords": ["Java/J2EE", "Oracle SQL", "WebSphere"]
-    },
-    {
-      "title": "Air France Check-In",
-      "category": "Consulting",
-      "summary": "Development and maintenance of a test automatonr for the new passenger check-in system for Air France and SkyTeam (KLM, Alitalia….). Discussions with the KLM dev team to help them develop their own automaton. The automaton was taking over every interface (Desk, Internet portal, self check-in).",
-      "keywords": ["HP Quick Test Pro", "Visual Basic"]
-    },
-    {
-      "title": "Paris Universite Club Baseball web app",
-      "category": "Side Project",
-      "url": "http://www.pucbaseball.com",
-      "description": "Creating a new web application for the Paris Baseball Club",
-      "summary": "Design, implementation, deployment of a web app for the Paris Baseball Softball and Cricket club. Providing blogs, emails and player management tools for the amateur club",
-      "keywords": ["Ruby on Rails", "Devise", "Heroku", "Mandrill", "Refills/Bitters", "RSS", "Ghost"]
+      "organization": "CoderDojo",
+      "position": "Teacher",
+      "website": "http://coderdojo.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Global movement of free coding clubs for young people.",
+      "highlights": [
+        "Awarded 'Teacher of the Month'"
+      ]
     }
   ],
-
-  "education": {
-    "level": "Master's degree",
-    "summary": "",
-    "history": [
-      {
+  "education": [
+    {
         "institution": "Ecole des Technologies Numeriques Appliquees",
         "title": "Master's degree of computer science and software engineering",
         "start": "2011-09",
         "end": "2013-06",
-        "curriculum": ["advanced C programming", "Java", "PHP","Ruby", ".NET", "Object-Oriented programming"],
+        "courses": ["advanced C programming", "Java", "PHP","Ruby", ".NET", "Object-Oriented programming"],
         "location": "Paris, France"
       },
       {
@@ -128,7 +102,7 @@
         "title": "Bachelor's degree of computer science and software engineering",
         "start": "2010-09",
         "end": "2011-06",
-        "curriculum": ["Shell", "C programming", "PHP", "MySQL", "UNIX System Administration", "Networks"],
+        "courses": ["Shell", "C programming", "PHP", "MySQL", "UNIX System Administration", "Networks"],
         "location": "Paris, France"
       },
       {
@@ -137,7 +111,7 @@
         "title": "Undergraduate studies",
         "start": "2009-09",
         "end": "2010-06",
-        "curriculum": ["Linear Algebra", "Algorithms", "C programming", "OCaml"],
+        "courses": ["Linear Algebra", "Algorithms", "C programming", "OCaml"],
         "location": "Paris, France"
       },
       {
@@ -146,7 +120,7 @@
         "title": "Undergraduate studies",
         "start": "2008-09",
         "end": "2009-06",
-        "curriculum": ["Baseball", "English", "Political Science", "Chemistry", "Calculus"],
+        "courses": ["Baseball", "English", "Political Science", "Chemistry", "Calculus"],
         "location": "Merced, California, USA"
       },
       {
@@ -155,104 +129,36 @@
         "title": "Undergraduate studies",
         "start": "2006-09",
         "end": "2008-06",
-        "curriculum": ["Linear Algebra", "C programming", "Chemistry", "Physics", "Calculus"],
+        "courses": ["Linear Algebra", "C programming", "Chemistry", "Physics", "Calculus"],
         "location": "Paris, France"
       }
-    ]
-  },
-  "skills": {
-    "sets": [
-      {
-        "name": "Programming",
-        "skills": ["Ruby", "Ruby on Rails", "Grape API framework", "Elixir", "Java", "Javascript", "CoffeeScript", "jQuery", "HTML 5", "CSS"]
-      },
-      {
-        "name": "Databases",
-        "skills": ["MySQL", "PostgreSQL", "MongoDB", "Redis", "ORMs", "ActiveRecord", "Mongoid"]
-      },
-      {
-        "name": "Cloud",
-        "skills": ["AWS", "S3", "Redshift", "EC2"]
-      },
-      {
-        "name": "Project management",
-        "skills": ["Agile project management", "Github flow"]
-      }
-    ]
-  },
-  "affiliation": {
-    "history": [
-      {
-        "role": "Player, Youth Coach, Team Captain",
-        "organization": "Paris Universite Club Baseball",
-        "location": "Paris, France",
-        "url": "http://www.pucbaseball.com",
-        "start": "1995-09",
-        "end": "2015-08",
-        "summary": "This is the club I grew up with, playing, coaching the kids, and ultimately being the club captain of the first team of Paris' baseball club."
-      },
-      {
-        "role": "Player, Youth Coach",
-        "organization": "Windsor Royals Baseball Club",
-        "location": "Brisbane, Australia",
-        "url": "https://www.facebook.com/Windsor-Royals-Baseball-Club-263428380353692",
-        "start": "2015-09",
-        "end": "",
-        "summary": "Playing competitive baseball for the best club in Brisbane, and teaching the game to the younger generation."
-      },
-      {
-        "role": "Instructor",
-        "organization": "Brisbane Baseball Academy",
-        "start": "2015-10",
-        "end": "",
-        "summary": "Teaching Brisbane's top baseball talent how to improve their game."
-      },
-      {
-        "role": "Member",
-        "organization": "Merced Blue Devils Alumni Association",
-        "start": "2010-01",
-        "end": ""
-      }
-    ]
-  },
-  "disposition": {
-    "authorization": "Currently on a 457 visa (Temporary Work, skilled), I lodged an application for a 461 visa (New Zealand Partner Visa).",
-    "remote": true,
-    "relocation": {
-      "willing": true,
-      "destincations": ["Brisbane, Melbourne"]
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["Ruby", "Ruby on Rails", "Grape API framework", "Elixir", "Java", "Javascript", "CoffeeScript", "jQuery", "HTML 5", "CSS"]
+    },
+    {
+      "name": "Databases",
+      "keywords": ["MySQL", "PostgreSQL", "MongoDB", "Redis", "ORMs", "ActiveRecord", "Mongoid"]
+    },
+    {
+      "name": "Cloud",
+      "keywords": ["AWS", "S3", "Redshift", "EC2"]
+    },
+    {
+      "name": "Project management",
+      "keywords": ["Agile project management", "Github flow"]
     }
-  },
-  "references": [
+  ],
+  "languages": [
     {
-      "name": "Joel Richards",
-      "category": "Professional",
-      "role": "Senior Software Engineer",
-      "summary": "Joel was my team leader at EverydayHero. I will provide contact details if requested."
+      "language": "French",
+      "fluency": "Native"
     },
     {
-      "name": "Brad Parker",
-      "category": "Professional",
-      "role": "Front-End Software Engineer",
-      "summary": "Brad and I worked on the same team at EverydayHero, I will provide contact details if requested."
-    },
-    {
-      "name": "Nick Chmielewski",
-      "category": "Professional",
-      "role": "Software Engineer",
-      "summary": "Nick and I worked on the same ruby and elixir projects at EverydayHero. I will provide contact details if requested."
-    },
-    {
-      "name": "Ryan Booker",
-      "category": "Professional",
-      "role": "Ruby/iOS developer",
-      "summary": "Ryan and I worked together for Oomph and EverydayHero, I will provide contact details if requested."
-    },
-    {
-      "name": "Valerie Abbot",
-      "category": "Professional",
-      "role": "QA Manager",
-      "summary": "Valerie hired me to work for Oomph when I first arrived in Australia. I will provide contact details if requested."
+      "language": "English",
+      "fluency": "Bilingual"
     }
   ],
   "interests": [
@@ -260,22 +166,32 @@
       "name": "Reading"
     },
     {
-      "name": "Baseball",
-      "summary": "The sport I have played all my life"
+      "name": "Baseball"
     },
     {
-      "name": "Mixology",
-      "summary": "Making cocktails is an advanced hobby of mine. It's just like cooking or baking, only I like to create sophisticated beverages."
+      "name": "Mixology"
     }
   ],
-  "languages": [
+  "references": [
     {
-      "language": "French",
-      "level": "Mothertongue"
+      "name": "Jasmyn Mason",
+      "reference": "Jasmyn is the HR Manager for EverydayHero."
     },
     {
-      "language": "English",
-      "level": "Bilingual"
+      "name": "Brad Parker",
+      "reference": "Brad and I worked on the same team at EverydayHero, I will provide contact details if requested."
+    },
+    {
+      "name": "Nick Chmielewski",
+      "reference": "Nick and I worked on the same ruby and elixir projects at EverydayHero. I will provide contact details if requested."
+    },
+    {
+      "name": "Ryan Booker",
+      "reference": "Ryan and I worked together for Oomph and EverydayHero, I will provide contact details if requested."
+    },
+    {
+      "name": "Valerie Abbot",
+      "reference": "Valerie hired me to work for Oomph when I first arrived in Australia. I will provide contact details if requested."
     }
   ]
 }

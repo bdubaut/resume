@@ -1,0 +1,320 @@
+name: 'Bertrand Dubaut'
+info:
+  label: 'Software Engineer - Ruby developer'
+  class: 'Software Engineer'
+  brief: 'I''m a French software engineer living in Brisbane, Australia. I am 28, speak fluent English, and have a Master''s degree in Computer Science from one of the top French Computer Engineering schools.<br /><br /> I am a ruby developer (Ruby on Rails, Grape API...) with strong software and cloud architecture skills. I am an Elixir enthusiast (functional programming), and keen to further my skills with front-end technologies like React or Relay. <br /><br /> My technology monitoring skills, up to date with the current state of our industry, will be appreciated. On a personal note, I have played baseball my whole life, including one year of college Baseball in California. I now play competitive Baseball and coach a youth team here in Brisbane in my spare time.'
+contact:
+  email: bdubaut@gmail.com
+  phone: '+61 481 755 342'
+social:
+  -
+    label: LinkedIn
+    network: LinkedIn
+    user: bdubaut
+    url: 'https://au.linkedin.com/in/bdubaut'
+  -
+    label: Github
+    network: Github
+    user: bdubaut
+    url: 'http://github.com/bdubaut'
+  -
+    label: Twitter
+    network: Twitter
+    user: bdubaut
+    url: 'http://twitter.com/bdubaut'
+employment:
+  history:
+    -
+      employer: Everydayhero
+      url: 'http://www.everydayhero.com'
+      position: 'Software Engineer - Ruby developper'
+      summary: 'Everydayhero is a crowdfunding platform aimed at charity fundraising.'
+      start: 2015-08
+      end: 2016-03
+      keywords:
+        - Ruby
+        - 'Ruby on Rails'
+        - Elixir
+        - PostgreSQL
+        - React
+        - AWS
+    -
+      employer: Oomph
+      url: 'http://www.oomphhq.com'
+      position: 'Software Engineer'
+      summary: 'Oomph is a platform for publishers and advertisers allowing them to create digital magazines or ads for mobile devices and tablets.'
+      start: 2014-09
+      end: 2015-07
+      keywords:
+        - Ruby
+        - 'Ruby on Rails'
+        - AWS
+        - PostgreSQL
+    -
+      employer: Visibleo
+      url: 'http://www.visibleo.fr'
+      position: 'Software Engineer'
+      summary: 'Visibleo is a web-marketing start-up based in the Paris Suburbs. They perform Facebook Ads and Google AdWords campaigns, while also creating websites for their clients. In charge of creating and developing web applications for the IT department of the company.'
+      start: 2014-01
+      end: 2014-07
+      keywords:
+        - Ruby
+        - 'Ruby on Rails'
+        - AWS
+        - 'Grape API'
+        - JQuery
+        - MongoDB
+    -
+      employer: 'Reputation Squad'
+      url: 'http://www.reputationsquad.com/en'
+      position: 'Technical Project Manager/Developer'
+      summary: 'Reputation Squad is an E-Reputation agency in Paris: the company manages and monitors its clients’ reputation on the Internet. In charge of creating and developing web and social media monitoring tools for the agency'
+      start: 2013-02
+      end: 2013-09
+      keywords:
+        - 'Ruby on Rails'
+        - PHP
+        - Perl
+        - 'Facebook API'
+        - 'Twitter API'
+        - 'Project Management'
+    -
+      employer: Sogeti
+      url: 'http://www.sogeti.com'
+      position: 'Technical consultant / Developer'
+      summary: 'Consultant in projects for several large-scale French companies like Air France or Renault.'
+      start: 2011-02
+      end: 2013-02
+      keywords:
+        - Java/J2EE
+        - 'Oracle SQL'
+        - 'HP Quality Center'
+        - 'QuickTest Pro'
+        - 'Visual Basic'
+      highlights:
+        - 'Managed a developer team based in India from France'
+projects:
+  -
+    title: Adomatic
+    category: private
+    url: 'http://oomphhq.com/advertising-solutions'
+    summary: 'Solution to convert an existing print Ad inventory into engaging rich media Ads for tablet and mobile.'
+    keywords:
+      - 'Ruby on Rails'
+      - PostgreSQL
+      - AWS
+  -
+    title: 'Global Sourcing Renault'
+    category: Consulting
+    summary: 'In charge of a vehicle selling application for RENAULT''s employees (as a consultant with Sogeti). Technical  specifications, and management of an Off-Shore development team in India. Also testing, deployement actions, bug management.'
+    keywords:
+      - Java/J2EE
+      - 'Oracle SQL'
+      - WebSphere
+  -
+    title: 'Air France Check-In'
+    category: Consulting
+    summary: 'Development and maintenance of a test automaton for the new passenger check-in system for Air France and SkyTeam (KLM, Alitalia….). Discussions with the KLM dev team to help them develop their own automaton. The automaton was designed to take over every interface (Desk, Internet portal, self check-in).'
+    keywords:
+      - 'HP Quick Test Pro'
+      - 'Visual Basic'
+  -
+    title: 'Paris Universite Club Baseball web app'
+    category: 'Side Project'
+    url: 'http://www.pucbaseball.com'
+    description: 'Creating a new web application for the Paris Baseball Club'
+    summary: 'Design, implementation, deployment of a web app for the Paris Baseball Softball and Cricket club. Providing blogs, emails and player management tools for the amateur club'
+    keywords:
+      - 'Ruby on Rails'
+      - Devise
+      - Heroku
+      - Mandrill
+      - Refills/Bitters
+      - RSS
+      - Ghost
+education:
+  level: 'Master''s degree'
+  summary: ""
+  history:
+    -
+      institution: 'Ecole des Technologies Numeriques Appliquees'
+      title: 'Master''s degree of computer science and software engineering'
+      start: 2011-09
+      end: 2013-06
+      curriculum:
+        - 'advanced C programming'
+        - Java
+        - PHP
+        - Ruby
+        - .NET
+        - 'Object-Oriented programming'
+      location: 'Paris, France'
+    -
+      institution: 'Ecole des Technologies Numeriques Appliquees'
+      url: 'http://etna-alternance.net'
+      title: 'Bachelor''s degree of computer science and software engineering'
+      start: 2010-09
+      end: 2011-06
+      curriculum:
+        - Shell
+        - 'C programming'
+        - PHP
+        - MySQL
+        - 'UNIX System Administration'
+        - Networks
+      location: 'Paris, France'
+    -
+      institution: 'Universite Paris VI'
+      url: 'http://upmc.fr/en'
+      title: 'Undergraduate studies'
+      start: 2009-09
+      end: 2010-06
+      curriculum:
+        - 'C Programming'
+        - 'Linear Algebra'
+        - Algorithms
+        - OCaml
+      location: 'Paris, France'
+    -
+      institution: 'Merced Community College'
+      url: 'http://mccd.edu/'
+      title: 'Undergraduate studies'
+      start: 2008-09
+      end: 2009-06
+      curriculum:
+        - Baseball
+        - English
+        - 'Political Science'
+        - Chemistry
+        - Calculus
+      location: 'Merced, California, USA'
+    -
+      institution: 'Universite Paris VI'
+      url: 'http://upmc.fr/en'
+      title: 'Undergraduate studies'
+      start: 2006-09
+      end: 2008-06
+      curriculum:
+        - 'C Programming'
+        - 'Linear Algebra'
+        - Chemistry
+        - Physics
+        - Calculus
+      location: 'Paris, France'
+skills:
+  sets:
+    -
+      name: Programming
+      skills:
+        - Ruby
+        - 'Ruby on Rails'
+        - 'Grape API framework'
+        - Elixir
+        - Java
+        - Javascript
+        - CoffeeScript
+        - jQuery
+        - 'HTML 5'
+        - CSS
+    -
+      name: Databases
+      skills:
+        - MySQL
+        - PostgreSQL
+        - MongoDB
+        - Redis
+        - ORMs
+        - ActiveRecord
+        - Mongoid
+    -
+      name: Cloud
+      skills:
+        - AWS
+        - S3
+        - Redshift
+        - EC2
+    -
+      name: 'Project management'
+      skills:
+        - 'Agile project management'
+        - 'Github flow'
+affiliation:
+  history:
+    -
+      role: 'Player, Youth Coach, Team Captain'
+      organization: 'Paris Universite Club Baseball'
+      location: 'Paris, France'
+      url: 'http://www.pucbaseball.com'
+      start: 1995-09
+      end: 2015-08
+      summary: 'This is the club I grew up with, playing, coaching the kids, and ultimately being the club captain of the first team of Paris'' baseball club.'
+    -
+      role: 'Player, Youth Coach'
+      organization: 'Windsor Royals Baseball Club'
+      location: 'Brisbane, Australia'
+      url: 'https://www.facebook.com/Windsor-Royals-Baseball-Club-263428380353692'
+      start: 2015-09
+      end: ""
+      summary: 'Playing competitive baseball for the best club in Brisbane, and teaching the game to the younger generation.'
+    -
+      role: Instructor
+      organization: 'Brisbane Baseball Academy'
+      location: 'Brisbane, Australia'
+      url: 'https://www.facebook.com/BrisbaneBaseballAcademy'
+      start: 2015-10
+      end: ""
+      summary: 'Teaching Brisbane''s top baseball talent how to improve their game.'
+    -
+      role: Member
+      organization: 'Merced Blue Devils Alumni Association'
+      start: 2010-01
+      end: ""
+disposition:
+  authorization: 'Currently on a 457 visa (Temporary Work, skilled), I lodged an application for a 461 visa (New Zealand Partner Visa).'
+  remote: true
+  relocation:
+    willing: true
+    destincations:
+      - 'Brisbane, Melbourne'
+references:
+  -
+    summary: 'Contact details will be provided if requested.'
+  -
+    name: 'Jasmyn Mason'
+    category: Professional
+    role: 'HR manager'
+    summary: 'Jasmyn is the HR manager for EverydayHero.'
+  -
+    name: 'Ryan Booker'
+    category: Professional
+    role: 'Ruby/iOS developer'
+    summary: 'Ryan and I worked together for Oomph and EverydayHero.'
+  -
+    name: 'Valerie Abbot'
+    category: Professional
+    role: 'QA Manager'
+    summary: 'Valerie hired me to work for Oomph when I first arrived in Australia.'
+interests:
+  -
+    name: Baseball
+    summary: 'The sport I have played all my life'
+  -
+    name: Mixology
+    summary: 'Making cocktails is an advanced hobby of mine. It''s just like cooking or baking, only I like to create sophisticated beverages.'
+  -
+    name: History
+    summary: 'Learning about the History of all cultures is something that interests me a whole lot.'
+  -
+    name: Music
+    summary: 'I played the piano at the Conservatorium when I was young. Now I am learning Ukulele because it''s easier to carry around.'
+  -
+    name: Reading
+  -
+    name: Traveling
+languages:
+  -
+    language: French
+    level: Mothertongue
+  -
+    language: English
+    level: Bilingual

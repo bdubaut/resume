@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <title>Bertrand Dubaut</title>
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic'
+        rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <style>
+            html, body, main, section, header, ul, p, h1, h2, h3 {
+              font-family: 'Calibri', 'Open Sans', 'sans-serif';
+              font-size: 14px;
+              margin: 0; padding: 0;
+              display: block;
+            }
+            
+            a {
+              color: #C00000;
+              text-decoration: none;
+            }
+            
+            a:visited {
+              color: #7B0796;
+            }
+            
+            a:hover {
+              text-decoration: underline;
+            }
+            
+            h1 {
+              text-transform: uppercase;
+              font-size:
+            }
+            
+            h2 {
+              text-transform: uppercase;
+              color: #898989;
+              font-size: 2em;
+              position: relative;
+              font-weight: 400;
+            }
+            
+            h3, .tenure {
+              font-size: 1.5em;
+              font-weight: 300;
+            }
+            
+            h3 {
+              margin-top: 0;
+              width: 66%;
+              float: left;
+            }
+            
+            table {
+              width: 100%;
+              text-transform: uppercase;
+              font-size: 1.3em;
+            }
+            
+            td:first-child {
+              text-align: right;
+              color: #A9A9A9;
+              letter-spacing: 5px;
+              font-weight: bold;
+            }
+            
+            td:last-child {
+              text-align: justify; /* HTML justification sucks, but in this case... */
+            }
+            
+            hr {
+              display: none;
+            }
+            
+            main {
+              padding: 15px;
+              max-width: 800px;
+              margin: 0 auto;
+            }
+            
+            section {
+              margin-top: 1em;
+            }
+            
+            section > div {
+              margin-top: 1em;
+              overflow: hidden; /* Clear floated children */
+            }
+            
+            section > div p {
+              clear: both;
+            }
+            
+            section > header {
+              position: relative;
+            }
+            
+            ul {
+              clear: both;
+            }
+            
+            li {
+              margin-left: 2em;
+            }
+            
+            p, li {
+              text-align: justify;
+            }
+            
+            .tenure {
+              float: right;
+              color: #6F6F6F;
+              background-color: #F5F5F5;
+              border-radius: 6px;
+              padding: 4px 6px;
+              font-size: 85%;
+            }
+            
+            span.keywords {
+              font-size: 10px;
+              color: #B16666;
+            }
+            
+            thead {
+              display: none;
+            }
+            
+            main > header {
+              width: 100%;
+              float: left;
+              margin-bottom: 1em;
+            }
+            
+            h1 {
+              float: left;
+            }
+            
+            h1, h2, .label {
+              font-size: 2.5em;
+              text-transform: uppercase;
+              font-weight: 300;
+              font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Lato', 'sans-serif'
+            }
+            
+            #contact {
+             clear: both;
+             float: right;
+            }
+            
+            header > span.fa {
+              text-align: center;
+              margin-right: 3px;
+              position: absolute;
+              width: 40px;
+              top: 10px;
+              font-size: 30px;
+              /*transform: translateX(-110%); PDF no likey */
+              margin-left: -50px;
+              color: #DADADA;
+            }
+            
+            .label {
+              float: right;
+              color: #DADADA;
+            }
+            
+            #summary {
+              color: #717171;
+              font-size: 1.25em;
+            }
+        </style>
+    </head>
+    
+    <body>
+        <main>
+            <header>
+                 <h1>Bertrand <span style="color: #C00000;">Dubaut</span></h1>
+ <span class="label">Software Engineer - Ruby developer</span>
+
+                <p id="contact"> <span class="email"><a href="mailto:bdubaut@gmail.com">bdubaut@gmail.com</a></span>
+
+                    <span
+                    class="phone">+61 481 755 342</span> <span class=website><a href="https://au.linkedin.com/in/bdubaut">LinkedIn</a></span>
+                        <span
+                        class=website><a href="http://github.com/bdubaut">Github</a>
+                            </span><span class=website><a href="http://twitter.com/bdubaut">Twitter</a></span>
+
+                </p>
+            </header>
+            <section id="summary">I&#39;m a French software engineer living in Brisbane, Australia. I am
+                28, speak fluent English, and have a Master&#39;s degree in Computer Science
+                from one of the top French Computer Engineering schools.
+                <br />
+                <br />I am a ruby developer (Ruby on Rails, Grape API...) with strong software
+                and cloud architecture skills. I am an Elixir enthusiast (functional programming),
+                and keen to further my skills with front-end technologies like React or
+                Relay.
+                <br />
+                <br />My technology monitoring skills, up to date with the current state of
+                our industry, will be appreciated. On a personal note, I have played baseball
+                my whole life, including one year of college Baseball in California. I
+                now play competitive Baseball and coach a youth team here in Brisbane in
+                my spare time.</section>
+            <hr>
+            <section id="skills">
+                <header> <span class="fa fa-lg fa-code"></span> 
+                     <h2>skills</h2>
+
+                </header>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Skill</th>
+                            <th>Keywords</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="width: 25%;">Programming</td>
+                            <td class="keywords">Ruby Ruby on Rails Grape API framework Elixir Java Javascript CoffeeScript
+                                jQuery HTML 5 CSS</td>
+                        </tr>
+                        <tr>
+                            <td style="width: 25%;">Databases</td>
+                            <td class="keywords">MySQL PostgreSQL MongoDB Redis ORMs ActiveRecord Mongoid</td>
+                        </tr>
+                        <tr>
+                            <td style="width: 25%;">Cloud</td>
+                            <td class="keywords">AWS S3 Redshift EC2</td>
+                        </tr>
+                        <tr>
+                            <td style="width: 25%;">Project management</td>
+                            <td class="keywords">Agile project management Github flow</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </section>
+            <hr>
+            <section id="employment">
+                <header> <span class="fa fa-lg fa-building"></span> 
+                     <h2>employment</h2>
+
+                </header>
+                <div>
+                     <h3><em>Software Engineer - Ruby developper</em>,
+              <a href="http://www.everydayhero.com">Everydayhero</a>
+              </h3>
+ <span class="tenure">2015-08 — 2016-03</span>
+
+                    <p>
+                        <p>Everydayhero is a crowdfunding platform aimed at charity fundraising.</p>
+                    </p> <span class="keywords">Ruby Ruby on Rails Elixir PostgreSQL React AWS </span> 
+                </div>
+                <div>
+                     <h3><em>Software Engineer</em>,
+              <a href="http://www.oomphhq.com">Oomph</a>
+              </h3>
+ <span class="tenure">2014-09 — 2015-07</span>
+
+                    <p>
+                        <p>Oomph is a platform for publishers and advertisers allowing them to create
+                            digital magazines or ads for mobile devices and tablets.</p>
+                    </p> <span class="keywords">Ruby Ruby on Rails AWS PostgreSQL </span> 
+                </div>
+                <div>
+                     <h3><em>Software Engineer</em>,
+              <a href="http://www.visibleo.fr">Visibleo</a>
+              </h3>
+ <span class="tenure">2014-01 — 2014-07</span>
+
+                    <p>
+                        <p>Visibleo is a web-marketing start-up based in the Paris Suburbs. They
+                            perform Facebook Ads and Google AdWords campaigns, while also creating
+                            websites for their clients. In charge of creating and developing web applications
+                            for the IT department of the company.</p>
+                    </p> <span class="keywords">Ruby Ruby on Rails AWS Grape API JQuery MongoDB </span> 
+                </div>
+                <div>
+                     <h3><em>Technical Project Manager/Developer</em>,
+              <a href="http://www.reputationsquad.com/en">Reputation Squad</a>
+              </h3>
+ <span class="tenure">2013-02 — 2013-09</span>
+
+                    <p>
+                        <p>Reputation Squad is an E-Reputation agency in Paris: the company manages
+                            and monitors its clients’ reputation on the Internet. In charge of creating
+                            and developing web and social media monitoring tools for the agency</p>
+                    </p> <span class="keywords">Ruby on Rails PHP Perl Facebook API Twitter API Project Management </span> 
+                </div>
+                <div>
+                     <h3><em>Technical consultant / Developer</em>,
+              <a href="http://www.sogeti.com">Sogeti</a>
+              </h3>
+ <span class="tenure">2011-02 — 2013-02</span>
+
+                    <p>
+                        <p>Consultant in projects for several large-scale French companies like Air
+                            France or Renault.</p>
+                    </p>
+                    <ul>
+                        <li>Managed a developer team based in India from France</li>
+                    </ul> <span class="keywords">Java/J2EE Oracle SQL HP Quality Center QuickTest Pro Visual Basic </span> 
+                </div>
+            </section>
+            <hr>
+            <section id="projects">
+                <header> <span class="fa fa-lg fa-star"></span> 
+                     <h2>projects</h2>
+
+                </header>
+                <div>
+                     <h3>
+          <a href="http://oomphhq.com/advertising-solutions">Adomatic</a>
+          </h3>
+
+                    <p>Solution to convert an existing print Ad inventory into engaging rich
+                        media Ads for tablet and mobile.</p> <span class="keywords">Ruby on Rails PostgreSQL AWS </span> 
+                </div>
+                <div>
+                     <h3>
+          Global Sourcing Renault
+          </h3>
+
+                    <p>In charge of a vehicle selling application for RENAULT&#39;s employees
+                        (as a consultant with Sogeti). Technical specifications, and management
+                        of an Off-Shore development team in India. Also testing, deployement actions,
+                        bug management.</p> <span class="keywords">Java/J2EE Oracle SQL WebSphere </span> 
+                </div>
+                <div>
+                     <h3>
+          Air France Check-In
+          </h3>
+
+                    <p>Development and maintenance of a test automaton for the new passenger
+                        check-in system for Air France and SkyTeam (KLM, Alitalia….). Discussions
+                        with the KLM dev team to help them develop their own automaton. The automaton
+                        was designed to take over every interface (Desk, Internet portal, self
+                        check-in).</p> <span class="keywords">HP Quick Test Pro Visual Basic </span> 
+                </div>
+                <div>
+                     <h3>
+          <a href="http://www.pucbaseball.com">Paris Universite Club Baseball web app</a>
+          </h3>
+
+                    <p>Design, implementation, deployment of a web app for the Paris Baseball
+                        Softball and Cricket club. Providing blogs, emails and player management
+                        tools for the amateur club</p> <span class="keywords">Ruby on Rails Devise Heroku Mandrill Refills/Bitters RSS Ghost </span> 
+                </div>
+            </section>
+            <hr>
+            <section id="education">
+                <header> <span class="fa fa-lg fa-mortar-board"></span> 
+                     <h2>education</h2>
+
+                </header>
+                <div>
+                     <h3><em>Master&#39;s degree of computer science and software engineering</em>, Ecole des Technologies Numeriques Appliquees</h3>
+ <span class="tenure">2011-09 — 2013-06</span>
+ <span class="keywords">advanced C programming Java PHP Ruby .NET Object-Oriented programming </span>
+
+                </div>
+                <div>
+                     <h3><em>Bachelor&#39;s degree of computer science and software engineering</em>, Ecole des Technologies Numeriques Appliquees</h3>
+ <span class="tenure">2010-09 — 2011-06</span>
+ <span class="keywords">Shell C programming PHP MySQL UNIX System Administration Networks </span>
+
+                </div>
+                <div>
+                     <h3><em>Undergraduate studies</em>, Universite Paris VI</h3>
+ <span class="tenure">2009-09 — 2010-06</span>
+ <span class="keywords">C Programming Linear Algebra Algorithms OCaml </span>
+
+                </div>
+                <div>
+                     <h3><em>Undergraduate studies</em>, Merced Community College</h3>
+ <span class="tenure">2008-09 — 2009-06</span>
+ <span class="keywords">Baseball English Political Science Chemistry Calculus </span>
+
+                </div>
+                <div>
+                     <h3><em>Undergraduate studies</em>, Universite Paris VI</h3>
+ <span class="tenure">2006-09 — 2008-06</span>
+ <span class="keywords">C Programming Linear Algebra Chemistry Physics Calculus </span>
+
+                </div>
+            </section>
+            <hr>
+            <section id="affiliation">
+                <header> <span class="fa fa-lg fa-share-alt"></span> 
+                     <h2>affiliation</h2>
+
+                </header>
+                <div>
+                     <h3><em>Player, Youth Coach, Team Captain</em>,
+              <a href="http://www.pucbaseball.com">Paris Universite Club Baseball</a>
+              </h3>
+ <span class="tenure">1995-09 — 2015-08</span>
+
+                    <p>This is the club I grew up with, playing, coaching the kids, and ultimately
+                        being the club captain of the first team of Paris&#39; baseball club.</p>
+                </div>
+                <div>
+                     <h3><em>Player, Youth Coach</em>,
+              <a href="https://www.facebook.com/Windsor-Royals-Baseball-Club-263428380353692">Windsor Royals Baseball Club</a>
+              </h3>
+ <span class="tenure">2015-09 — Present</span>
+
+                    <p>Playing competitive baseball for the best club in Brisbane, and teaching
+                        the game to the younger generation.</p>
+                </div>
+                <div>
+                     <h3><em>Instructor</em>,
+              <a href="https://www.facebook.com/BrisbaneBaseballAcademy">Brisbane Baseball Academy</a>
+              </h3>
+ <span class="tenure">2015-10 — Present</span>
+
+                    <p>Teaching Brisbane&#39;s top baseball talent how to improve their game.</p>
+                </div>
+                <div>
+                     <h3><em>Member</em>,
+              Merced Blue Devils Alumni Association
+              </h3>
+ <span class="tenure">2010-01 — Present</span>
+
+                </div>
+            </section>
+            <hr>
+            <section id="references">
+                <header> <span class="fa fa-lg fa-thumbs-o-up"></span> 
+                     <h2>references</h2>
+
+                </header>
+                <div>
+                     <h3><em></em></h3>
+
+                    <p>Contact details will be provided if requested.</p>
+                </div>
+                <div>
+                     <h3><em>Jasmyn Mason</em>, HR manager</h3>
+
+                    <p>Jasmyn is the HR manager for EverydayHero.</p>
+                </div>
+                <div>
+                     <h3><em>Ryan Booker</em>, Ruby/iOS developer</h3>
+
+                    <p>Ryan and I worked together for Oomph and EverydayHero.</p>
+                </div>
+                <div>
+                     <h3><em>Valerie Abbot</em>, QA Manager</h3>
+
+                    <p>Valerie hired me to work for Oomph when I first arrived in Australia.</p>
+                </div>
+            </section>
+            <hr>
+            <section id="interests">
+                <header> <span class="fa fa-lg fa-quote-right"></span> 
+                     <h2>interests</h2>
+
+                </header>
+                <div>
+                     <h3><em>Baseball</em></h3>
+ <span class="tenure">Current</span>
+
+                    <p>The sport I have played all my life</p>
+                </div>
+                <div>
+                     <h3><em>Mixology</em></h3>
+ <span class="tenure">Current</span>
+
+                    <p>Making cocktails is an advanced hobby of mine. It&#39;s just like cooking
+                        or baking, only I like to create sophisticated beverages.</p>
+                </div>
+                <div>
+                     <h3><em>History</em></h3>
+ <span class="tenure">Current</span>
+
+                    <p>Learning about the History of all cultures is something that interests
+                        me a whole lot.</p>
+                </div>
+                <div>
+                     <h3><em>Music</em></h3>
+ <span class="tenure">Current</span>
+
+                    <p>I played the piano at the Conservatorium when I was young. Now I am learning
+                        Ukulele because it&#39;s easier to carry around.</p>
+                </div>
+                <div>
+                     <h3><em>Reading</em></h3>
+ <span class="tenure">Current</span>
+
+                </div>
+                <div>
+                     <h3><em>Traveling</em></h3>
+ <span class="tenure">Current</span>
+
+                </div>
+            </section>
+            <hr>
+            <section id="languages">
+                <header> <span class="fa fa-lg fa-microphone"></span>
+
+                     <h2>LANGUAGES</h2>
+
+                </header>
+                <div>
+                     <h3><em>French</em></h3>
+Mothertongue</div>
+                <div>
+                     <h3><em>English</em></h3>
+Bilingual</div>
+            </section>
+        </main>
+    </body>
+
+</html>

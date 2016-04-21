@@ -230,22 +230,10 @@
       "summary": "Contact details will be provided if requested."
     },
     {
-      "name": "Joel Richards",
+      "name": "Jasmyn Mason",
       "category": "Professional",
-      "role": "Senior Software Engineer",
-      "summary": "Joel was my team leader at EverydayHero."
-    },
-    {
-      "name": "Brad Parker",
-      "category": "Professional",
-      "role": "Front-End Software Engineer",
-      "summary": "Brad and I worked on the same team at EverydayHero."
-    },
-    {
-      "name": "Nick Chmielewski",
-      "category": "Professional",
-      "role": "Software Engineer",
-      "summary": "Nick and I worked on the same ruby and elixir projects at EverydayHero."
+      "role": "HR manager",
+      "summary": "Jasmyn is the HR manager for EverydayHero."
     },
     {
       "name": "Ryan Booker",
