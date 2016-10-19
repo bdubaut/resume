@@ -1,10 +1,10 @@
 Bertrand Dubaut
 Email: bdubaut@gmail.com
-Tel: +61 481 755 342
+Tel: +31 6 80 10 13 79
 
 ================================================================================
 
-I'm a French software engineer living in Brisbane, Australia. I am 28, speak fluent English, and have a Master's degree in Computer Science from one of the top French Computer Engineering schools.<br /><br /> I am a ruby developer (Ruby on Rails, Grape API...) with strong software and cloud architecture skills. I am an Elixir enthusiast (functional programming), and keen to further my skills with front-end technologies like React or Relay. <br /><br /> My technology monitoring skills, up to date with the current state of our industry, will be appreciated. On a personal note, I have played baseball my whole life, including one year of college Baseball in California. I now play competitive Baseball and coach a youth team here in Brisbane in my spare time.
+I'm a French software engineer living in Amsterdam, Netherlands. I am 28, speak fluent English, and have a Master's degree in Computer Science from one of the top French Computer Engineering schools.<br /><br /> I am a ruby developer (Ruby on Rails, Grape API...) with strong software and cloud architecture skills. I am an Elixir enthusiast (functional programming), and keen to further my skills with front-end technologies like React or Relay. <br /><br /> My technology monitoring skills, up to date with the current state of our industry, will be appreciated. On a personal note, I have played baseball my whole life, including one year of college Baseball in California.
 
 SKILLS -------------------------------------------------------------------------
 
@@ -14,6 +14,9 @@ SKILLS -------------------------------------------------------------------------
 - Project management: Agile project management Github flow 
 
 EMPLOYMENT ---------------------------------------------------------------------
+
+Lead Software Engineer, Mila Industries, B.V. (2016-06 — Present)
+Mila is a smart contact manager that integrates with the tools you use for your business.
 
 Software Engineer - Ruby developper, Everydayhero (2015-08 — 2016-03)
 Everydayhero is a crowdfunding platform aimed at charity fundraising.
@@ -90,8 +93,17 @@ REFERENCES ---------------------------------------------------------------------
 
 Contact details will be provided if requested.
 
+Raoul Wissink, CTO (Professional)
+Raoul is the current CTO of Mila
+
+Jennifer Ho, Developer & Content manager (Professional)
+Jenny is a junior developer and head of content for Mila.
+
 Jasmyn Mason, HR manager (Professional)
 Jasmyn is the HR manager for EverydayHero.
+
+John May, Ruby/Haskell/iOS developer (Professional)
+John and I worked together at Oomph. John now lives in Amsterdam as well.
 
 Ryan Booker, Ruby/iOS developer (Professional)
 Ryan and I worked together for Oomph and EverydayHero.

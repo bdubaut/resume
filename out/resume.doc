@@ -508,7 +508,7 @@
           <w:rPr>
             <w:sz w:val="16"/>
           </w:rPr>
-          <w:t>+61 481 755 342</w:t>
+          <w:t>+31 6 80 10 13 79</w:t>
         </w:r>
         <w:r>
           <w:rPr>
@@ -530,7 +530,7 @@
         <w:pPr>
           <w:pStyle w:val="Summary"/>
         </w:pPr>
-        <w:r><w:rPr></w:rPr><w:t>I&apos;m a French software engineer living in Brisbane, Australia. I am 28, speak fluent English, and have a Master&apos;s degree in Computer Science from one of the top French Computer Engineering schools.&lt;br /&gt;&lt;br /&gt; I am a ruby developer (Ruby on Rails, Grape API...) with strong software and cloud architecture skills. I am an Elixir enthusiast (functional programming), and keen to further my skills with front-end technologies like React or Relay. &lt;br /&gt;&lt;br /&gt; My technology monitoring skills, up to date with the current state of our industry, will be appreciated. On a personal note, I have played baseball my whole life, including one year of college Baseball in California. I now play competitive Baseball and coach a youth team here in Brisbane in my spare time.</w:t></w:r>
+        <w:r><w:rPr></w:rPr><w:t>I&apos;m a French software engineer living in Amsterdam, Netherlands. I am 28, speak fluent English, and have a Master&apos;s degree in Computer Science from one of the top French Computer Engineering schools.&lt;br /&gt;&lt;br /&gt; I am a ruby developer (Ruby on Rails, Grape API...) with strong software and cloud architecture skills. I am an Elixir enthusiast (functional programming), and keen to further my skills with front-end technologies like React or Relay. &lt;br /&gt;&lt;br /&gt; My technology monitoring skills, up to date with the current state of our industry, will be appreciated. On a personal note, I have played baseball my whole life, including one year of college Baseball in California.</w:t></w:r>
       </w:p>
       <wx:sub-section>
   <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -728,6 +728,48 @@
           </w:r>
         </w:p>
       </wx:pBdrGroup>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Lead Software Engineer, </w:t>
+      </w:r>
+      <w:hlink w:dest="http://www.milahq.com">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Mila Industries, B.V.</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Jun 2016 — Present</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Mila is a smart contact manager that integrates with the tools you use for your business.</w:t></w:r>
+    </w:p>
+
+
+  </wx:sub-section>
 
 
   <wx:sub-section>
@@ -1603,6 +1645,82 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Raoul Wissink</w:t>
+      </w:r>
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:t>, CTO</w:t>
+        </w:r>
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:t> (Professional)</w:t>
+        </w:r>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>??? — Present</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Raoul is the current CTO of Mila</w:t></w:r>
+    </w:p>
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Jennifer Ho</w:t>
+      </w:r>
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:t>, Developer &amp; Content manager</w:t>
+        </w:r>
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:t> (Professional)</w:t>
+        </w:r>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>??? — Present</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Jenny is a junior developer and head of content for Mila.</w:t></w:r>
+    </w:p>
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
         <w:t>Jasmyn Mason</w:t>
       </w:r>
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
@@ -1628,6 +1746,44 @@
         </w:rPr>
       </w:pPr>
       <w:r><w:rPr></w:rPr><w:t>Jasmyn is the HR manager for EverydayHero.</w:t></w:r>
+    </w:p>
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>John May</w:t>
+      </w:r>
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:t>, Ruby/Haskell/iOS developer</w:t>
+        </w:r>
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:t> (Professional)</w:t>
+        </w:r>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>??? — Present</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>John and I worked together at Oomph. John now lives in Amsterdam as well.</w:t></w:r>
     </w:p>
   </wx:sub-section>
 

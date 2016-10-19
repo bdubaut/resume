@@ -252,6 +252,12 @@
       "summary": "Jasmyn is the HR manager for EverydayHero."
     },
     {
+      "name": "John May",
+      "category": "Professional",
+      "role": "Ruby/Haskell/iOS developer",
+      "summary": "John and I worked together at Oomph. John now lives in Amsterdam as well."
+    },
+    {
       "name": "Ryan Booker",
       "category": "Professional",
       "role": "Ruby/iOS developer",

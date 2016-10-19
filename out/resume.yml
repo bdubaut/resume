@@ -2,10 +2,10 @@ name: 'Bertrand Dubaut'
 info:
   label: 'Software Engineer - Ruby developer'
   class: 'Software Engineer'
-  brief: 'I''m a French software engineer living in Brisbane, Australia. I am 28, speak fluent English, and have a Master''s degree in Computer Science from one of the top French Computer Engineering schools.<br /><br /> I am a ruby developer (Ruby on Rails, Grape API...) with strong software and cloud architecture skills. I am an Elixir enthusiast (functional programming), and keen to further my skills with front-end technologies like React or Relay. <br /><br /> My technology monitoring skills, up to date with the current state of our industry, will be appreciated. On a personal note, I have played baseball my whole life, including one year of college Baseball in California. I now play competitive Baseball and coach a youth team here in Brisbane in my spare time.'
+  brief: 'I''m a French software engineer living in Amsterdam, Netherlands. I am 28, speak fluent English, and have a Master''s degree in Computer Science from one of the top French Computer Engineering schools.<br /><br /> I am a ruby developer (Ruby on Rails, Grape API...) with strong software and cloud architecture skills. I am an Elixir enthusiast (functional programming), and keen to further my skills with front-end technologies like React or Relay. <br /><br /> My technology monitoring skills, up to date with the current state of our industry, will be appreciated. On a personal note, I have played baseball my whole life, including one year of college Baseball in California.'
 contact:
   email: bdubaut@gmail.com
-  phone: '+61 481 755 342'
+  phone: '+31 6 80 10 13 79'
 social:
   -
     label: LinkedIn
@@ -24,6 +24,19 @@ social:
     url: 'http://twitter.com/bdubaut'
 employment:
   history:
+    -
+      employer: 'Mila Industries, B.V.'
+      url: 'http://www.milahq.com'
+      position: 'Lead Software Engineer'
+      summary: 'Mila is a smart contact manager that integrates with the tools you use for your business.'
+      start: 2016-06
+      keywords:
+        - Ruby
+        - 'Ruby on Rails'
+        - 'Aurelia JS'
+        - MongoDB
+        - PostgreSQL
+        - Workflow
     -
       employer: Everydayhero
       url: 'http://www.everydayhero.com'
@@ -270,20 +283,31 @@ affiliation:
       start: 2010-01
       end: ""
 disposition:
-  authorization: 'Currently on a 457 visa (Temporary Work, skilled), I lodged an application for a 461 visa (New Zealand Partner Visa).'
+  authorization: 'EU citizen, no extra paperwork required.'
   remote: true
-  relocation:
-    willing: true
-    destincations:
-      - 'Brisbane, Melbourne'
 references:
   -
     summary: 'Contact details will be provided if requested.'
+  -
+    name: 'Raoul Wissink'
+    category: Professional
+    role: CTO
+    summary: 'Raoul is the current CTO of Mila'
+  -
+    name: 'Jennifer Ho'
+    category: Professional
+    role: 'Developer & Content manager'
+    summary: 'Jenny is a junior developer and head of content for Mila.'
   -
     name: 'Jasmyn Mason'
     category: Professional
     role: 'HR manager'
     summary: 'Jasmyn is the HR manager for EverydayHero.'
+  -
+    name: 'John May'
+    category: Professional
+    role: 'Ruby/Haskell/iOS developer'
+    summary: 'John and I worked together at Oomph. John now lives in Amsterdam as well.'
   -
     name: 'Ryan Booker'
     category: Professional
