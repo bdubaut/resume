@@ -1,5 +1,5 @@
 # resume
-My resume, using [jsonresume](https://www.jsonresume.org) and [hackmyresume](https://please.hackmyresume.com)
+My resume, using [jsonresume](https://www.jsonresume.org) and [hackmyresume](please.hackmyresume.com)
 
 A **PDF** version can be found [here](https://github.com/bdubaut/resume/blob/master/out/resume.pdf).
 
