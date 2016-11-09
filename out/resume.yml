@@ -2,7 +2,7 @@ name: 'Bertrand Dubaut'
 info:
   label: 'Software Engineer - Ruby developer'
   class: 'Software Engineer'
-  brief: 'I''m a French software engineer living in Amsterdam, Netherlands. I am 28, speak fluent English, and have a Master''s degree in Computer Science from one of the top French Computer Engineering schools.<br /><br /> I am a ruby developer (Ruby on Rails, Grape API...) with strong software and cloud architecture skills. I am an Elixir enthusiast (functional programming), and keen to further my skills with front-end technologies like React or Relay. <br /><br /> My technology monitoring skills, up to date with the current state of our industry, will be appreciated. On a personal note, I have played baseball my whole life, including one year of college Baseball in California.'
+  brief: 'I''m a French software engineer living in Amsterdam, Netherlands. I am 28, speak fluent English, and have a Master''s degree in Computer Science from one of the top French Computer Engineering schools.<br /><br />I enjoy working surrounded by brilliant people as I see the opportunity to always improve my skills and knowledge. I am a Ruby developer (Ruby on Rails, Grape) with a strong interest in Elixir. I have been building Rails applications and REST APIs for 4 years, and I strongly believe in TDD and BDD. I strive to always be learning new concepts and technologies. <br /><br /> On a more personal note, I have played baseball my whole life, including one year of college Baseball in California.'
 contact:
   email: bdubaut@gmail.com
   phone: '+31 6 80 10 13 79'
